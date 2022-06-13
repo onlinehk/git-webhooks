@@ -26,5 +26,5 @@ app.listen(port, function (err) {
     return console.log("something bad happened", err);
   }
 
-  console.log("bitbucket server is listening on " + port);
+  console.log("bitbucket 2 server is listening on " + port);
 });
