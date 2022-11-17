@@ -72,5 +72,5 @@ app.listen(port, function (err) {
     return console.log('something bad happened', err);
   }
 
-  console.log('the github server is listening on ' + port);
+  console.log('github server is listening on ' + port);
 });
